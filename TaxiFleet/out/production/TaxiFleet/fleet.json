@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "licensePlate": "А123БВ77",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "driverName": "Иванов Иван Иванович",
+    "driverLicense": "7712 345678",
+    "status": "Активен",
+    "mileage": 85000,
+    "dailyRate": 3500.0,
+    "lastMaintenanceDate": "2024-10-15"
+  },
+  {
+    "id": 2,
+    "licensePlate": "В456ГД77",
+    "brand": "Hyundai",
+    "model": "Solaris",
+    "year": 2021,
+    "driverName": "Петров Пётр Петрович",
+    "driverLicense": "9901 112233",
+    "status": "Активен",
+    "mileage": 62000,
+    "dailyRate": 2800.0,
+    "lastMaintenanceDate": "2024-11-01"
+  },
+  {
+    "id": 3,
+    "licensePlate": "Е789ЖЗ99",
+    "brand": "Kia",
+    "model": "Rio",
+    "year": 2019,
+    "driverName": "Мирзоян Михаил Витальевич",
+    "driverLicense": "5577 998877",
+    "status": "На ТО",
+    "mileage": 120000,
+    "dailyRate": 2500.0,
+    "lastMaintenanceDate": "2025-01-10"
+  },
+  {
+    "id": 4,
+    "licensePlate": "И012КЛ77",
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "year": 2022,
+    "driverName": "Кузнецов Алексей Дмитриевич",
+    "driverLicense": "7755 444455",
+    "status": "Активен",
+    "mileage": 34000,
+    "dailyRate": 3200.0,
+    "lastMaintenanceDate": "2025-02-20"
+  },
+  {
+    "id": 5,
+    "licensePlate": "М345НО99",
+    "brand": "Skoda",
+    "model": "Rapid",
+    "year": 2020,
+    "driverName": "Новиков Дмитрий Александрович",
+    "driverLicense": "3344 667788",
+    "status": "Неисправен",
+    "mileage": 95000,
+    "dailyRate": 2700.0,
+    "lastMaintenanceDate": "2024-09-05"
+  },
+  {
+    "id": 6,
+    "licensePlate": "П678РС77",
+    "brand": "Renault",
+    "model": "Logan",
+    "year": 2018,
+    "driverName": "Морозов Андрей Викторович",
+    "driverLicense": "1122 334455",
+    "status": "Активен",
+    "mileage": 155000,
+    "dailyRate": 2300.0,
+    "lastMaintenanceDate": "2025-03-01"
+  },
+  {
+    "id": 7,
+    "licensePlate": "Т901УФ50",
+    "brand": "Lada",
+    "model": "Vesta",
+    "year": 2023,
+    "driverName": "Волков Николай Павлович",
+    "driverLicense": "6688 001122",
+    "status": "Активен",
+    "mileage": 18000,
+    "dailyRate": 2600.0,
+    "lastMaintenanceDate": "2025-04-01"
+  }
+]
